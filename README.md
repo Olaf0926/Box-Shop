@@ -1,29 +1,26 @@
 <p align="center">
-<a href="https://github.com/tortuvshin/boxshop">
+<a href="https://github.com/olaf0926/box-shop">
 <img src="https://github.com/tortuvshin/boxshop/blob/master/public/img/logo.png"/>
 </a><br>
 	<b>Laravel Ecommerce Platform</b>
 </p>
 
 <p align="center">
-    <a href="https://github.com/tortuvshin/boxshop/issues">
+    <a href="https://github.com/olaf0926/box-shop/issues">
         <img src="https://img.shields.io/github/issues/tortuvshin/boxshop.svg"
             alt="Issues"></a>
-     <a href="https://github.com/tortuvshin/boxshop/fork">
+     <a href="https://github.com/olaf0926/box-shop/fork">
         <img src="https://img.shields.io/github/forks/tortuvshin/boxshop.svg?style=social&label=Fork"
             alt="Forks"></a>
-    <a href="https://github.com/tortuvshin/boxshop/stargazers">
+    <a href="https://github.com/olaf0926/box-shop/stargazers">
         <img src="https://img.shields.io/github/stars/tortuvshin/boxshop.svg?style=social&label=Stars"
             alt="Stars"></a>
-    <a href="https://github.com/tortuvshin/">
+    <a href="https://github.com/olaf0926/">
         <img src="https://img.shields.io/github/followers/tortuvshin.svg?style=social&label=Follow"
             alt="Followers"></a>
-    <a href="https://raw.githubusercontent.com/tortuvshin/boxshop/master/LICENSE">
+    <a href="https://raw.githubusercontent.com/olaf0926/box-shop/master/LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-blue.svg"
             alt="LICENSE"></a>
-    <a href="https://twitter.com/intent/tweet?text=Wow:&url=%5Bobject%20Object%5D">
-        <img src="https://img.shields.io/twitter/url/https/github.com/tortuvshin/boxshop.svg?style=social"
-            alt="Tweet"></a>
 </p>
 
 
@@ -46,7 +43,7 @@ This is a e-commerce platform I made mostly using Laravel 5.4
 Clone repo
 
 ```
-git clone https://github.com/tortuvshin/boxshop.git
+git clone https://github.com/olaf0926/box-shop.git
 ```
 
 Install Composer
